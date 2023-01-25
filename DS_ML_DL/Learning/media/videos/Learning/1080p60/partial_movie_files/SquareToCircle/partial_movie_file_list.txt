@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2902699114_570746363_223132457.mp4'
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2365230007_56732558_247722528.mp4'
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2365230007_2474512999_724543344.mp4'
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2365230007_2110543147_515126793.mp4'
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2365230007_1799412032_631011427.mp4'
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2365230007_2474512999_1777045192.mp4'
+file 'file:/home/atanu/Dropbox/Github/AKB1794/myMiniProjects/DS_ML_DL/Learning/media/videos/Learning/1080p60/partial_movie_files/SquareToCircle/2365230007_2110543147_2261318790.mp4'

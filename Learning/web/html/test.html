@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+  </head>
+  <body>
+    <div id="preview-css">
+      <div id="text-privew">box</div>
+    </div>
+    <style>
+      #preview-css {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+        border: solid 1px #ebf7f4;
+        font-size: 18px;
+        text-align: center;
+        background: #e9ebee;
+        height: 60px;
+        z-index: 9999999;
+        padding-top: 17px;
+        width: 350px;
+        margin: 0 auto;
+        margin-top: 70px;
+      }
+      #text-privew {
+        border: 1px dashed #98ad27;
+        width: 125px;
+        text-align: center;
+        position: relative;
+      }
+      @keyframes myAnimation {
+        from {
+          left: 0px;
+        }
+        to {
+          left: 200px;
+        }
+      }
+      /* Hien thi cho Firefox */
+      @-moz-keyframes myAnimation {
+        from {
+          left: 0px;
+        }
+        to {
+          left: 200px;
+        }
+      }
+      /* Hien thi cho Safari and Chrome */
+      @-webkit-keyframes myAnimation {
+        from {
+          left: 0px;
+        }
+        to {
+          left: 200px;
+        }
+      }
+      /* Hien thi cho Opera */
+      @-o-keyframes myAnimation {
+        from {
+          left: 0px;
+        }
+        to {
+          left: 200px;
+        }
+      }
+      #text-privew {
+        animation: myAnimation 2s ease 0.5s infinite normal running;
+        -moz-animation: myAnimation 2s ease 0.5s infinite normal running;
+        -webkit-animation: myAnimation 2s ease 0.5s infinite normal running;
+        -o-animation: myAnimation 2s ease 0.5s infinite normal running;
+      }
+    </style>
+    <svg viewBox="86.343 0.169 286.28 260.757" width="286.28" height="260.757">
+      <path
+        style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0)"
+        d="M 86.343 116.061 L 143.599 0.169 L 315.367 0.169 L 372.623 116.061 L 315.367 116.061 L 258.111 58.115 L 200.855 58.115 L 143.599 116.061 L 86.343 116.061 Z"
+      ></path>
+      <path
+        style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0)"
+        d="M 86.343 260.926 L 143.599 145.034 L 315.367 145.034 L 372.623 260.926 L 315.367 260.926 L 258.111 202.98 L 200.855 202.98 L 143.599 260.926 L 86.343 260.926 Z"
+      ></path>
+    </svg>
+  </body>
+</html>
